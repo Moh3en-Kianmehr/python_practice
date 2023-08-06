@@ -26,6 +26,3 @@ emp_1 = Employee("John", "Smith")
 emp_2 = Employee("Mary",  "Sue")
 emp_3 = Employee("Antony", "Walker")
 
-print(emp_1.fullname())
-print(emp_2.email())
-print(emp_3.first_name())

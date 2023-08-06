@@ -9,4 +9,3 @@ def secret(string):
 
     return s
 
-print(secret('p.class.five'))

@@ -21,4 +21,3 @@ def encode_morse(string):
             if i==key:
                 x = char_to_dots[key] + ' ' + x
     print(x)
-encode_morse('EDABBIT CHALLENGE')
