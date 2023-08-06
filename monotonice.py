@@ -12,4 +12,3 @@ def checkArray(array):
     return flag
 
 
-print(checkArray([1]))
